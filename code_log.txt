@@ -1,0 +1,11 @@
+2024-Nov-14-12:53:22 : Intializing the ETL
+ 2024-Nov-14-12:53:22 : Extraction Process started
+ 2024-Nov-14-12:53:24 : Extract Process ended
+ 2024-Nov-14-12:53:24 : Transform Phase Started
+ 2024-Nov-14-12:53:24 : Transform phases ended
+ 2024-Nov-14-12:53:24 : data saved to csv file
+ 2024-Nov-14-12:53:24 : Data loaded into the database successfully.
+ 2024-Nov-14-12:53:24 : Data loaded to Database as a table
+ 2024-Nov-14-12:53:24 : Query executed successfully.
+ 2024-Nov-14-12:53:24 : process Complete
+ 
